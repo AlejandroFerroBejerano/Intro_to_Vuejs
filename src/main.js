@@ -6,7 +6,7 @@ var app = new Vue({
     description: 'A pair of warm, fuzzy socks',
     inventory: 10,
     link: 'https://goo.gl/s8ca8G',
-    inStock: true,
+    inStock: false,
     details: ["80% cotton", "20% polyester", "Gender-neutral"],
     variants: [
       {
